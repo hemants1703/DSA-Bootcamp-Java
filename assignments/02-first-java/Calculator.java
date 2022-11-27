@@ -17,7 +17,7 @@ public class Calculator {
 
         //  input the operator
         System.out.print("Enter any one of (+, -, *, /): ");
-        char operator = scan.next().charAt(0);
+        char operator = scan.next().trim().charAt(0);
 
         double result = 0.0;
 
