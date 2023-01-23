@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// https://leetcode.com/problems/build-array-from-permutation/description/
 class Question1 {
     public static void main(String[] args) {
         int[] arr = {0,2,1,5,3,4};
