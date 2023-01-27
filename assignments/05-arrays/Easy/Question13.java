@@ -1,6 +1,6 @@
 import java.util.Arrays;
 //  https://leetcode.com/problems/flipping-an-image/
-public class Question12 {
+public class Question13 {
     public static void main(String[] args) {
         int[][] arr = {
                 {1,1,0},
