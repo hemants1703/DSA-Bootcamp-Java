@@ -8,7 +8,12 @@ public class Question17 {
                 {4,5,6},
                 {7,8,9}
         };
-        System.out.println(Arrays.toString(transpose(matrix)));
+        matrix = transpose(matrix);
+        for(int i = 0; i < 3; i++) {
+            for(int j = 0; j < 3; j++)
+                System.out.print(matrix[i][j]);
+            System.out.println();
+        }
     }
     public static int[][] transpose(int[][] matrix) {
         int row = matrix.length;
