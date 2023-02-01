@@ -1,4 +1,5 @@
 //  https://leetcode.com/problems/richest-customer-wealth/
+//  https://leetcode.com/problems/richest-customer-wealth/solutions/3097036/beats-100-with-0ms-runtime-java/
 public class Question4 {
     public static void main(String[] args) {
         int[][] accounts = {
