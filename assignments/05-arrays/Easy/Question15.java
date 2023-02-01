@@ -1,4 +1,5 @@
 //  https://leetcode.com/problems/matrix-diagonal-sum/
+//  https://leetcode.com/problems/matrix-diagonal-sum/solutions/3125906/beats-100-0ms-easy-java-solution-o-n-time-complexity/
 public class Question15 {
     public static void main(String[] args) {
         int[][] matrix = {
