@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 //  https://leetcode.com/problems/transpose-matrix/description/
+//  https://leetcode.com/problems/transpose-matrix/solutions/3117101/beats-100-0ms-easy-solution-java/
 public class Question17 {
     public static void main(String[] args) {
         int[][] matrix = {
