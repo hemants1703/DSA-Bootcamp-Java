@@ -1,5 +1,6 @@
 import java.util.Arrays;
 //  https://leetcode.com/problems/create-target-array-in-the-given-order/
+//  https://leetcode.com/problems/create-target-array-in-the-given-order/solutions/3103984/beats-100-0ms-runtime-java-solution/
 public class Question9 {
     public static void main(String[] args) {
         int[] arr = {0,1,2,3,4};
