@@ -1,4 +1,5 @@
 //  https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+//  https://leetcode.com/problems/find-numbers-with-even-number-of-digits/solutions/3121194/descriptive-java-solution-beats-9919-of-the-solutions-java/
 public class Question16 {
     public static void main(String[] args) {
         int[] nums = {12,345,2,6,7896};
