@@ -1,4 +1,5 @@
 //  https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+//  https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/3107541/easy-java-solution/
 public class Question10 {
     public static void main(String[] args) {
         System.out.println(checkIfPangram("thequickbrownfoxjumpsoverthelazydog"));
